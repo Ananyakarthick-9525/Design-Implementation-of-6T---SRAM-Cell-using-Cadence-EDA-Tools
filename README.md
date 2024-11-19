@@ -47,7 +47,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0021]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 181944.png")
+![Screenshot 2024-11-19 184513](https://github.com/user-attachments/assets/f026c1df-352b-49ff-9270-af7190d99360)
+
+
 
 
 
@@ -76,15 +78,18 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0026]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 181958.png")
+![Screenshot 2024-11-19 184529](https://github.com/user-attachments/assets/3cd4fb38-c4c5-4a8d-9480-b25f636a5fc2)
+
 
 
 For Transient Analysis Settings and Output
 
 
-![IMG-20241019-WA0024]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 182014.png")
+![Screenshot 2024-11-19 184544](https://github.com/user-attachments/assets/485291a4-7407-4023-a075-2d116c4fe006)
 
-![IMG-20241019-WA0023]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 182023.png")
+
+![Screenshot 2024-11-19 184558](https://github.com/user-attachments/assets/4ef22f21-9427-4a42-a426-b57e11c6d02d)
+
 
 Results:
 The design and implementation of the 6T SRAM cell using Cadence EDA tools were successfully achieved. Simulation results validated the correct functionality and performance of the SRAM cell, including stable read/write operations,
